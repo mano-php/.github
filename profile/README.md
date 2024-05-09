@@ -10,7 +10,9 @@ AI时代下快速二开的PHP全栈框架，解放码农，释放效能~
 <p>
 <div align="center">
 update...
-<img src="https://komarev.com/ghpvc/?username=mano-php&style=flat-square&color=ffd000" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mano-php&style=flat-square&color=ffd000" />
+</p>
 </div>
 <!-- <h3 align="center">
 <a href="https://chat.vitejs.dev"><i>Get involved!</i></a>
