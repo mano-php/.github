@@ -9,7 +9,7 @@ ManoPHP
 AI时代下快速二开的PHP全栈框架，解放码农，释放效能~
 <p>
 <div align="center">
-[![Star History Chart](https://api.star-history.com/svg?repos=https:/&type=Date)](https://star-history.com/#https:/&Date)
+update...
 </div>
 <!-- <h3 align="center">
 <a href="https://chat.vitejs.dev"><i>Get involved!</i></a>
