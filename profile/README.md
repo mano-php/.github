@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Vite
+ManoPHP
 </h1>
 <p align="center">
 AI时代下快速二开的PHP全栈框架，解放码农，释放效能~
